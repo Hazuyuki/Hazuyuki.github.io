@@ -24,17 +24,29 @@ In view of the above challenges, this workshop will invite the leading experts f
 The workshop is composed of eight invited talks, a panel discussion, and a poster session.
 
 > 09:00-09:30 invited talk 1
+> 
 > 09:30-10:00 invited talk 2
+> 
 > 10:00-10:30 invited talk 3
+> 
 > 10:30-10:40 coffee break
+> 
 > 10:40-11:10 invited talk 4
+> 
 > 11:10-11:40 invited talk 5
+> 
 > 11:40-12:10 invited talk 6
+> 
 > 12:10-14:00 lunch break
+> 
 > 14:00-14:30 invited talk 7
+> 
 > 14:30-15:00 invited talk 8
+> 
 > 15:00-15:30 panel discussion
+> 
 > 15:30-15:50 coffee break
+> 
 > 15:50-17:30 poster session
 
 
@@ -59,7 +71,9 @@ We invite your poster submissions for DOT-PIM. A two-page PDF abstract of the re
 #### Important Dates
 
 Abstract submission deadline: 31 July 2023
+
 Notification date: 10 August 2023
+
 Workshop date: 21 September 2023
 
 #### Workshop Chair & Contact:
@@ -67,14 +81,23 @@ Yu Wang (yu-wang@tsinghua.edu.cn), Tsinghua University, CN.
 
 ## Organizers
 Yu Wang (Workshop Chair, yu-wang@tsinghua.edu.cn), professor, IEEE fellow, chair of the Department of Electronic Engineering of Tsinghua University, dean of the Institute for Electronics and Information Technology in Tianjin, and vice dean of the school of information science and technology of Tsinghua University. His research interests include application-specific heterogeneous computing, processing-in-memory, and power/reliability-aware system design methodology. Yu Wang has published more than 80 journals (51 IEEE/ACM journals in recent five years) and 200 conference papers in the areas of EDA, FPGA, VLSI Design, and Embedded Systems, with the Google citation more than 15,000. He has received four best paper awards and 11 best paper nominations. He will serve as TPC chair for ASP-DAC 2025. He serves as the editor of important journals in the field, such as ACM TODAES and IEEE TCAD and program committee member for leading conferences in the top EDA and FPGA conferences.
+
 **Speakers:**
+
 Yu (Kevin) Cao, Professor, IEEE fellow, Arizona State University. His research interests include neural-inspired computing, hardware design for on-chip learning, and reliable integration of nanoelectronics. He served as Associate Editor of the IEEE Transactions on CAD and on the technical program committee of many conferences.
+
 Yiran Chen, Professor, IEEE/ACM fellow, Duke University. His group focuses on the research of new memory and storage systems, machine learning and neuromorphic computing, and mobile computing systems.  He is now serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He received the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, ACM SIGDA Service Award, etc.
+
 Kwang-Ting Cheng (Fengbin Tu), Professor, IEEE fellow, Hong Kong University of Science and Technology. Prof. Cheng is a world authority in the field of electronics testing, design verification, and design automation of electronics. He was recognized in the 50th DAC in 2013 as a Top 10 Author in DAC’s Fourth Decade and a Prolific Author.
+
 Onur Mutlu, Professor, IEEE/ACM fellow, ETH Zurich. His current research interests are in computer architecture, systems, hardware security, and bioinformatics. He received the IEEE Computer Society Edward J. McCluskey Technical Achievement Award, the ACM SIGARCH Maurice Wilkes Award.
+
 Huaqiang Wu, Professor, director of Microelectronics, Tsinghua University. His research interests include advanced memory and brain-inspired computing technologies. He has published 100 papers in top journals such as Nature, Nature Nanotechnology, Nature Electronics, and international conferences such as IEDM, VLSI and ISSCC.
+
 Xiaoming Chen, Associate Professor, Institute of Computing Technology, Chinese Academy of Sciences. His research interests are mainly focused on EDA and computer architecture. He was awarded the Excellent Young Scientists Fund of National Natural Science Foundation of China in 2021. He received the 2015 EDAA Outstanding Dissertation Award and the 2018 Alibaba DAMO Academy Young Fellow Award. 
+
 Shimeng Yu (Yuan-Chun Luo), Professor, Georgia Institute of Technology. Prof. Yu’s research interests are nanoelectronic devices and circuits for energy-efficient computing systems. He won the NSF Faculty Early CAREER Award in 2016 and the ACM Special Interests Group on Design Automation (SIGDA) Outstanding New Faculty Award in 2018.
+
 Abbas Rahimi, Research Staff, IBM Research-Zurich. His research interests lie in codesigning emerging algorithms and hardware systems with an emphasis on improving energy efficiency and robustness. He received the 2015 Outstanding Dissertation Award from the European Design and he was a co-recipient of the Best Paper Nominations at DAC (2013) and DATE (2019).
 
 
@@ -83,5 +106,6 @@ We hope to provide a final report/manuscript summarizing the highlights and esse
 
 ## Former Workshops
 The organizers previously held a tutorial about efficient AI in ASP-DAC 2022.
+
 Tutorial title: Towards Efficient Computation for Sparsity in Future Artificial Intelligence
 
