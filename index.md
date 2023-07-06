@@ -103,9 +103,3 @@ Abbas Rahimi, Research Staff, IBM Research-Zurich. His research interests lie in
 
 ## Follow-up Plans
 We hope to provide a final report/manuscript summarizing the highlights and essential outcomes from DOT-PIM for the community to review and refer to.
-
-## Former Workshops
-The organizers previously held a tutorial about efficient AI in ASP-DAC 2022.
-
-Tutorial title: Towards Efficient Computation for Sparsity in Future Artificial Intelligence
-
