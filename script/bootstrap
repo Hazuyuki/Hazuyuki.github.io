@@ -2,5 +2,6 @@
 
 set -e
 
-gem install bundler
+# Bundler 2.4 is the last series compatible with the CI's Ruby 2.7.
+gem install bundler --version "~> 2.4.0" --conservative --no-document
 bundle install
