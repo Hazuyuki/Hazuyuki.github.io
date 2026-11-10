@@ -68,7 +68,7 @@ DOT-PIM will summarize and result in a survey paper about PIM design tools (subm
 We invite your poster submissions for DOT-PIM. A two-page PDF abstract of the research work should be submitted to Prof. Yu Wang (yu-wang@tsinghua.edu.cn) via email. Abstracts should be in PDF form in two-column format, up to 2 pages in length with 1-inch margins and 10–11-point font size. Abstracts should list the full names and affiliations of all authors and the contact information of the corresponding author. Abstracts will be reviewed by the Program Committee. Those that are selected for poster presentations will be distributed to workshop participants.
 
 
-#### Important Dates
+### Important Dates
 
 Abstract submission deadline: 31 July 2023
 
@@ -76,7 +76,7 @@ Notification date: 10 August 2023
 
 Workshop date: 21 September 2023
 
-#### Workshop Chair & Contact:
+### Workshop Chair & Contact:
 Yu Wang (yu-wang@tsinghua.edu.cn), Tsinghua University, CN.
 
 ## Organizers
